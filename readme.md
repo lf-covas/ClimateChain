@@ -1,7 +1,7 @@
 # Blockchain - Inteli  
 
 <p align="center">
-<img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png">
+<img src="https://www.inteli.edu.br/wp-content/uploads/2022/04/28103439/Logo-Container.png">
 </p>
 
 # 
