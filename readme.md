@@ -24,6 +24,6 @@ Os objetivos do projeto são promover o desenvolvimento sustentável e combater 
 <img width=100 src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png"> 
 <img width=50 src="https://essp.nasa.gov/essp/wp-content/uploads/sites/153/2020/09/gedi-ecosystem-lidar.jpg">
 <img width=50 src="https://colab.research.google.com/img/colab_favicon_256px.png">
-<img width=50 src"https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg">
+<img width=50 src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg">
 
 ## 📋 Execução dos projetos
