@@ -21,5 +21,6 @@ Os objetivos do projeto são promover o desenvolvimento sustentável e combater 
 
 
 ## 💻 Tecnologias utilizadas
+<a href="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png> https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png"</a>
 
 ## 📋 Execução dos projetos
