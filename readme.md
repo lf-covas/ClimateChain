@@ -19,6 +19,7 @@
 ## 📝 Descrição
 Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
 
+## 📋 Execução dos projetos
 
 ## 💻 Tecnologias utilizadas
 <div align="center">
@@ -26,10 +27,7 @@ Os objetivos do projeto são promover o desenvolvimento sustentável e combater 
   <img width=50 src="https://essp.nasa.gov/essp/wp-content/uploads/sites/153/2020/09/gedi-ecosystem-lidar.jpg">
   <img width=50 src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img width=50 src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg">
-  <img width=50 src="https://user-images.githubusercontent.com/110571286/236646276-112c7463-679a-4cd2-9bca-d0c910a8b348.png">
+  <img width=50 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg">
 </div>
-
-## 📋 Execução dos projetos
-
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
