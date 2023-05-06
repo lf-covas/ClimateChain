@@ -23,6 +23,6 @@ Os objetivos do projeto são promover o desenvolvimento sustentável e combater 
 ## 💻 Tecnologias utilizadas
 <img width=100 src="https://quolum.com/blog/wp-content/uploads/2023/01/coverimage.png"> 
 <img width=50 src="https://essp.nasa.gov/essp/wp-content/uploads/sites/153/2020/09/gedi-ecosystem-lidar.jpg">
-<img width=50 src="https://drive.google.com/drive/search?q=owner%3Ame%20(type%3Aapplication%2Fvnd.google.colaboratory%20%7C%7C%20type%3Aapplication%2Fvnd.google.colab)&authuser=0">
+<img width=50 src="https://colab.research.google.com/img/colab_favicon_256px.png">
 
 ## 📋 Execução dos projetos
