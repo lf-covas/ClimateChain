@@ -30,3 +30,6 @@ Os objetivos do projeto são promover o desenvolvimento sustentável e combater 
 </div>
 
 ## 📋 Execução dos projetos
+
+
+<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
