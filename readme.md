@@ -85,10 +85,13 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma3.png?raw=true">
 
 ## 🙋 Informações importantes
-rede: Mumbai
-CDC: 0x5d8a1e3D7f0954fCe82af8c7167524cd99B6C6aA
-BTGDOL test: 0x0172ae13E3583BF565957095D27caede3Abb172e
-BTGDOL CDC trade: 0xC56197a21A24b2e2c13D1410221C62967A376BDF
+-rede: Mumbai
+
+-CDC: 0x5d8a1e3D7f0954fCe82af8c7167524cd99B6C6aA
+
+-BTGDOL test: 0x0172ae13E3583BF565957095D27caede3Abb172e
+
+-BTGDOL CDC trade: 0xC56197a21A24b2e2c13D1410221C62967A376BDF
 
 ## 📋 Execução dos projetos
 
