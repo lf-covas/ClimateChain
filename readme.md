@@ -95,6 +95,9 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
   <img width=50 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg">
   <img width=50 src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg">
   <img width=50 src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg">
+</div>
+
+<div align="center">
   <img width=50 src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
   <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
 </div>
