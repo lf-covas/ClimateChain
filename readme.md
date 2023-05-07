@@ -98,8 +98,8 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 </div>
 
 <div align="center">
-  <img width=50 src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
-  <img width=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
+  <img width=100 src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
+  <img width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
