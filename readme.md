@@ -6,7 +6,7 @@
 
 # 
 
-## ClimateChain 
+## Trust
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/daniel-camargo-03562920b/">Daniel Coelho Camargo</a>
@@ -15,10 +15,6 @@
 - <a href="https://www.linkedin.com/in/henrique-godoy-879138252/">Henrique Godoy</a>
 - <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-alencar-161243211/">José Vitor Alencar</a>
 - <a href="https://www.linkedin.com/in/lfcovas97/">Luiz Fernando Covas</a> 
-
-
-## 📝 Descrição
-Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
 
 ## 🧩 Objetivo
 Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
