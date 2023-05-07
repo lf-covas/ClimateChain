@@ -31,6 +31,23 @@ A solução apresentada visa impulsionar a transformação para um futuro susten
 ## 👨🏻‍💻 Análise SWOT
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Simple%20SWOT.png?raw=true">
 
+## 📋 Descrição da solução desenvolvida
+### Qual o problema a ser resolvido?
+A falta de credibilidade que o mercado de crédito de carbono enfrenta atualmente com pouco assertividade em mensurar se o projeto realmente será efetivo e gerara retorno para o meio ambiente, realizando a negociação desses papéis em BTG Dol, aumentando assim a liquidez dessa nova moeda.
+
+### Qual a solução proposta?
+Nossos dispositivos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida atráves dos nossos dispositivos IoT e dos nossos algoritmos. Além de criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros. Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
+
+### Como a solução porposta deverá ser utilizada?
+Nossos dispositivos serão instalados em campos onde os projetos serão implementados para efetuar uma análise de dados e mensurar a quantidade de CO₂ (ou qualquer outro tipo de impacto ambiental) que deixará de ser emitida para que então nossos algoritmos possam metrificar essas informações.
+
+### Quais os benefícios trazidos pela solução proposta?
+Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da BTG Dol como investimento/pagamento. Uma Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.    
+
+## 🪙 VPC - Value Proposition Canvas
+<img src=""
+
+
 
 ## 📋 Execução dos projetos
 
