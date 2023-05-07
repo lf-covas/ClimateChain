@@ -50,23 +50,25 @@ Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito d
 ## 🔒 Política de Privacidade de acordo com a LGPD
 A empresa Trust, que trabalha com controle de coleta de dados de crédito de carbono, valoriza a privacidade e a proteção de dados pessoais de seus usuários e clientes. Por isso, esta política tem como objetivo descrever as medidas adotadas pela empresa para garantir a proteção e a privacidade dos dados coletados. 
 
-###Coleta de dados
+### Coleta de dados
 A empresa coleta apenas os dados necessários para realizar o controle de coleta de dados de crédito de carbono. As informações coletadas incluem nome, endereço de e-mail, endereço físico, telefone, dados de transação e quaisquer outras informações relacionadas à coleta de crédito de carbono. A coleta de dados é realizada de maneira transparente e com o consentimento dos usuários. 
-Uso de dados 
+
+### Uso de dados 
 A empresa utiliza os dados coletados para realizar o controle de coleta de dados de crédito de carbono, garantindo a eficiência e a efetividade do processo. Além disso, os dados podem ser utilizados para fins estatísticos e para aprimorar os serviços oferecidos. 
-Compartilhamento de dados 
+
+### Compartilhamento de dados 
 A empresa não compartilha os dados coletados com terceiros, exceto quando necessário para a execução do serviço ou quando exigido por lei. Em tais casos, a empresa garante que o compartilhamento seja realizado de maneira segura e confidencial. 
 
-###Proteção de dados 
+### Proteção de dados 
 A empresa adota medidas técnicas e organizacionais para garantir a segurança e a proteção dos dados pessoais coletados. Essas medidas incluem criptografia de dados, armazenamento seguro, controle de acesso e treinamento de funcionários para garantir a confidencialidade dos dados. 
 
-###Direitos dos titulares de dados
+### Direitos dos titulares de dados
 Os titulares dos dados coletados pela empresa têm o direito de acessar, corrigir, atualizar e excluir seus dados pessoais. A empresa se compromete a garantir o exercício desses direitos, de acordo com as disposições legais aplicáveis. 
 
-###Atualização da política 
+### Atualização da política 
 Esta política pode ser atualizada pela empresa a qualquer momento, conforme necessário, para garantir sua adequação às mudanças legais e de mercado. Os usuários serão notificados sobre quaisquer alterações na política de privacidade e proteção de dados. 
 
-###Contato 
+### Contato 
 Os usuários podem entrar em contato com a empresa para obter mais informações sobre a coleta, o uso e o compartilhamento de dados pessoais, ou para exercer seus direitos em relação aos dados coletados.
 
 ## 🙎 Personas
