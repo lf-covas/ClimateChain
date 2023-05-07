@@ -28,6 +28,9 @@ Identificamos um obstáculo para aumentar a acessibilidade e liquidez dos contra
 ## 🤔 Justificativa
 A solução apresentada visa impulsionar a transformação para um futuro sustentável, escalando a geração de créditos de carbono de maneira simples e transparente para aumentar a confiabilidade do sistema. A proposta se diferencia do que já é empregado no mercado por oferecer um controle absoluto sobre a quantidade e a forma como esses créditos são criados, disponibilizando um selo de autenticação para as empresas, que comprova todo esse processo. Além disso, o valor desses créditos é atrelado à BTG Dol, uma Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.
 
+## Análise SWOT
+
+
 ## 📋 Execução dos projetos
 
 ## 💻 Tecnologias utilizadas
