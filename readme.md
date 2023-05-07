@@ -30,16 +30,16 @@ A solução apresentada visa impulsionar a transformação para um futuro susten
 
 ## 📋 Descrição da solução desenvolvida
 ### Qual o problema a ser resolvido?
-A falta de credibilidade que o mercado de crédito de carbono enfrenta atualmente com pouco assertividade em mensurar se o projeto realmente será efetivo e gerara retorno para o meio ambiente, realizando a negociação desses papéis em BTG Dol, aumentando assim a liquidez dessa nova moeda.
+A falta de credibilidade que o mercado de crédito de carbono enfrenta atualmente com pouco assertividade em mensurar se o projeto realmente será efetivo e irá gerar retorno para o meio ambiente, realizando a negociação desses papéis em BTG Dol, stablecoin que enfrenta baixa liquidez atualmente.
 
 ### Qual a solução proposta?
-Nossos dispositivos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida atráves dos nossos dispositivos IoT e dos nossos algoritmos. Além de criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros. Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
+Nossos algoritmos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa através de DataSets fornecidos pela NASA, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida atráves dos nossos algoritmos. Além de criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros. Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
 
 ### Como a solução porposta deverá ser utilizada?
-Nossos dispositivos serão instalados em campos onde os projetos serão implementados para efetuar uma análise de dados e mensurar a quantidade de CO₂ (ou qualquer outro tipo de impacto ambiental) que deixará de ser emitida para que então nossos algoritmos possam metrificar essas informações.
+Os algoritimos deverão ser utilizados para verificar a quantidade de CO2 após o final de cada projeto para que possa ser feita a análise do impacto no meio ambiente e a geração automatica do Token e criação dos smartcontract.
 
 ### Quais os benefícios trazidos pela solução proposta?
-Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da BTG Dol como investimento/pagamento. Uma Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.    
+Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da BTG Dol como investimento/pagamento, a Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.    
 
 ## 🪙 VPC - Value Proposition Canvas
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Value%20proposition%20canvas.png?raw=true">
@@ -72,8 +72,6 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona1.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona2.png?raw=true">
 
-## ⛰️ Jornadas do Usuário ou Storyboard 
-
 ## 🤓 User Story
 -Eu como investidor quero poder investir meu dinheiro em ativos ESG de confiança para contribuir para um mundo mais sustentável.
 
@@ -85,8 +83,6 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma1.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma2.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma3.png?raw=true">
-
-
 
 ## 📋 Execução dos projetos
 
