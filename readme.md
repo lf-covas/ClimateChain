@@ -19,6 +19,15 @@
 ## 📝 Descrição
 Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
 
+## 🧩 Objetivo
+Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
+
+## 🍃 Proposta da solução
+Identificamos um obstáculo para aumentar a acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da Stablecoin BTG Dol como investimento/pagamento. Por isso, desenvolvemos uma solução inovadora que visa promover a prosperidade desse ecossistema por meio de nossos dispositivos IoT e algoritmos que conseguem gerar valor real para projetos relacionado a créditos de carbono. Esses dispositivos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida. Criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros (Selo de garantia Trust). Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
+
+## 🤔 Justificativa
+A solução apresentada visa impulsionar a transformação para um futuro sustentável, escalando a geração de créditos de carbono de maneira simples e transparente para aumentar a confiabilidade do sistema. A proposta se diferencia do que já é empregado no mercado por oferecer um controle absoluto sobre a quantidade e a forma como esses créditos são criados, disponibilizando um selo de autenticação para as empresas, que comprova todo esse processo. Além disso, o valor desses créditos é atrelado à BTG Dol, uma Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.
+
 ## 📋 Execução dos projetos
 
 ## 💻 Tecnologias utilizadas
