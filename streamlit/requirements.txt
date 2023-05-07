@@ -1,8 +1,1 @@
-scikit-learn
-sklearn
 streamlit-option-menu
-joblib
-pandas
-shap
-numpy
-matplotlib
