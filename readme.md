@@ -1,7 +1,8 @@
 # Blockchain - Inteli  
 
 <p align="center">
-<a><img src="ClimateChain/Documentação/imagens/Dark Green Nature"></a>
+<a><img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Dark%20Green%20Nature
+"></a>
 </p>
 
 # 
