@@ -1,7 +1,7 @@
 # Blockchain - Inteli  
 
 <p align="center">
-<a><img src="https://www.inteli.edu.br/wp-content/uploads/2022/04/28103439/Logo-Container.png"></a>
+<a><img src="./Documentação/imagens/Dark Green Nature"></a>
 </p>
 
 # 
