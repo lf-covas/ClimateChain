@@ -80,7 +80,10 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 -Eu como empresario quero identificar possibilidades de criação de crédito de carbono através das minhas operações para neutralizar as minhas emissões de crédito de carbono.
 -Eu como empresario quero identificar possibilidades de criação de crédito de carbono através das minhas operações para vender para outras empresas que precisam neutralizar a sua produção de carbono
 
-## 🖥️ Protótipo de interface com o usuário
+## 🖥️ Protótipo de interface com o usuário (Mockup)
+<img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma1.png?raw=true">
+<img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma2.png?raw=true">
+<img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma3.png?raw=true">
 
 
 
