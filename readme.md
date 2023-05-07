@@ -1,12 +1,12 @@
 # Blockchain - Inteli  
 
 <p align="center">
-<a><img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Dark%20Green%20Nature.png?raw=true"></a>
+<a><img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/TRUST.png?raw=true"></a>
 </p>
 
 # 
 
-## ClimateChain 
+## Trust
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/daniel-camargo-03562920b/">Daniel Coelho Camargo</a>
@@ -16,34 +16,30 @@
 - <a href="https://www.linkedin.com/in/jos%C3%A9-vitor-alencar-161243211/">José Vitor Alencar</a>
 - <a href="https://www.linkedin.com/in/lfcovas97/">Luiz Fernando Covas</a> 
 
-
-## 📝 Descrição
-Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
-
 ## 🧩 Objetivo
 Os objetivos do projeto são promover o desenvolvimento sustentável e combater as alterações climáticas por meio de soluções inovadoras baseadas na tecnologia Blockchain. Essas soluções visam agregar valor para as empresas parceiras e para a sociedade, por meio da criação de créditos de carbono e do aumento da acessibilidade e liquidez destes mercados, promovendo um ecossistema próspero e transformando o mercado de ativos sustentáveis. Com isso, o projeto visa impulsionar a transição para uma economia mais verde e consciente.
 
 ## 🍃 Proposta da solução
-Identificamos um obstáculo para aumentar a acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da Stablecoin BTG Dol como investimento/pagamento. Por isso, desenvolvemos uma solução inovadora que visa promover a prosperidade desse ecossistema por meio de nossos dispositivos IoT e algoritmos que conseguem gerar valor real para projetos relacionado a créditos de carbono. Esses dispositivos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida. Criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros (Selo de garantia Trust). Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
+Identificamos um obstáculo para aumentar a acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da Stablecoin BTG Dol como investimento/pagamento. Por isso, desenvolvemos uma solução inovadora que visa promover a prosperidade desse ecossistema por meio de algoritmos que conseguem gerar valor real para projetos relacionado a créditos de carbono. Esses algorítimos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida. Criaremos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros (Selo de garantia Trust). Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina e proporcionando papéis com maior confiabilidade para serem negociados na “Bolsa Verde”.
 
 ## 🤔 Justificativa
-A solução apresentada visa impulsionar a transformação para um futuro sustentável, escalando a geração de créditos de carbono de maneira simples e transparente para aumentar a confiabilidade do sistema. A proposta se diferencia do que já é empregado no mercado por oferecer um controle absoluto sobre a quantidade e a forma como esses créditos são criados, pois o token do crédito de carbono e fundível, fazendo com que ele se torne um ativo financeiro, podendo ser negociado e com a mesma validade independente de onde o token foi gerado assim conseguimos disponibilizar um selo de autenticação para as empresas, que comprova todo esse processo. Além disso, o valor desses créditos é atrelado à BTG Dol, uma Stablecoin do maior banco de investimento da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.
+A solução apresentada visa impulsionar a transformação para um futuro sustentável, escalando a geração de créditos de carbono de maneira simples e transparente para aumentar a confiabilidade do sistema. A proposta se diferencia do que já é empregado no mercado por oferecer um controle absoluto sobre a quantidade e a forma como esses créditos são criados, pois o token do crédito de carbono e fundível, fazendo com que ele se torne um ativo financeiro, podendo ser negociado e com a mesma validade independente de onde o token foi gerado, assim futuramente iremos conseguir disponibilizar um selo de autenticação para as empresas, que comprova todo esse processo. Além disso, o valor desses créditos é atrelado à BTG Dol, uma Stablecoin do maior banco de investimento da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.
 
 ## 👨🏻‍💻 Análise SWOT
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Simple%20SWOT.png?raw=true">
 
 ## 📋 Descrição da solução desenvolvida
 ### Qual o problema a ser resolvido?
-A falta de credibilidade que o mercado de crédito de carbono enfrenta atualmente com pouco assertividade em mensurar se o projeto realmente será efetivo e gerara retorno para o meio ambiente, realizando a negociação desses papéis em BTG Dol, aumentando assim a liquidez dessa nova moeda.
+A falta de credibilidade que o mercado de crédito de carbono enfrenta atualmente com pouco assertividade em mensurar se o projeto realmente será efetivo e irá gerar retorno para o meio ambiente, realizando a negociação desses papéis em BTG Dol, stablecoin que enfrenta baixa liquidez atualmente.
 
 ### Qual a solução proposta?
-Nossos dispositivos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida atráves dos nossos dispositivos IoT e dos nossos algoritmos. Além de criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros. Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
+Nossos algoritmos coletam dados relacionados a projetos verdes, como reflorestamento e agricultura regenerativa através de DataSets fornecidos pela NASA, garantindo a confiabilidade desses dados por meio de tokens gerados para cada tonelada de carbono reduzida atráves dos nossos algoritmos. Além de criamos uma certificação por meio de uma NFT, que autentica que os créditos são verdadeiros. Os valores desses créditos são negociados em BTG Dol, criando uma nova economia verde atrelada ao maior banco de investimento da América Latina.
 
 ### Como a solução porposta deverá ser utilizada?
-Nossos dispositivos serão instalados em campos onde os projetos serão implementados para efetuar uma análise de dados e mensurar a quantidade de CO₂ (ou qualquer outro tipo de impacto ambiental) que deixará de ser emitida para que então nossos algoritmos possam metrificar essas informações.
+Os algoritimos deverão ser utilizados para verificar a quantidade de CO2 após o final de cada projeto para que possa ser feita a análise do impacto no meio ambiente e a geração automatica do Token e criação dos smartcontract.
 
 ### Quais os benefícios trazidos pela solução proposta?
-Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da BTG Dol como investimento/pagamento. Uma Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.    
+Aumento da confiabilidade, acessibilidade e liquidez dos contratos de Crédito de Carbono e da utilização da BTG Dol como investimento/pagamento, a Stablecoin do maior banco da América Latina, promovendo um incentivo para que mais empresas adotem práticas sustentáveis.    
 
 ## 🪙 VPC - Value Proposition Canvas
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Value%20proposition%20canvas.png?raw=true">
@@ -76,8 +72,6 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona1.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona2.png?raw=true">
 
-## ⛰️ Jornadas do Usuário ou Storyboard 
-
 ## 🤓 User Story
 -Eu como investidor quero poder investir meu dinheiro em ativos ESG de confiança para contribuir para um mundo mais sustentável.
 
@@ -90,7 +84,11 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma2.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Figma3.png?raw=true">
 
-
+## 🙋 Informações importantes
+rede: Mumbai
+CDC: 0x5d8a1e3D7f0954fCe82af8c7167524cd99B6C6aA
+BTGDOL test: 0x0172ae13E3583BF565957095D27caede3Abb172e
+BTGDOL CDC trade: 0xC56197a21A24b2e2c13D1410221C62967A376BDF
 
 ## 📋 Execução dos projetos
 
@@ -101,6 +99,13 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
   <img width=50 src="https://colab.research.google.com/img/colab_favicon_256px.png">
   <img width=50 src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg">
   <img width=50 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg">
+  <img width=50 src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg">
+  <img width=50 src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg">
+</div>
+
+<div align="center">
+  <img width=100 src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png">
+  <img width=100 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png">
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />

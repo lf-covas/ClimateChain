@@ -1,0 +1,10 @@
+streamlit-option-menu
+geopandas
+matplotlib
+pandas
+IPython.display
+tabulate
+h5py
+contextily
+shapely.geometry
+pandas
