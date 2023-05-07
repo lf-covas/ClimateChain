@@ -6,7 +6,7 @@
 
 # 
 
-## ClimateChain 
+## Trust
 
 ## Integrantes: 
 - <a href="https://www.linkedin.com/in/daniel-camargo-03562920b/">Daniel Coelho Camargo</a>
