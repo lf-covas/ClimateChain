@@ -75,6 +75,8 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona1.png?raw=true">
 <img src="https://github.com/lf-covas/ClimateChain/blob/main/Documenta%C3%A7%C3%A3o/imagens/Persona2.png?raw=true">
 
+## ⛰️ Jornadas do Usuário ou Storyboard 
+
 ## 🤓 User Story
 -Eu como investidor quero poder investir meu dinheiro em ativos ESG de confiança para contribuir para um mundo mais sustentável
 -Eu como empresario quero identificar possibilidades de criação de crédito de carbono através das minhas operações para neutralizar as minhas emissões de crédito de carbono.
