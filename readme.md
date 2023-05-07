@@ -94,6 +94,7 @@ Os usuários podem entrar em contato com a empresa para obter mais informações
   <img width=50 src="https://solidity-portuguese.readthedocs.io/pt/latest/_images/logo.svg">
   <img width=50 src="https://logowik.com/content/uploads/images/visual-studio-code7642.jpg">
   <img width=50 src="https://pbs.twimg.com/profile_images/1477703417636163586/fuv2rwTA_400x400.jpg">
+  <img width=50 src="https://banner2.cleanpng.com/20180412/kye/kisspng-python-programming-language-computer-programming-language-5acfdc3636bac7.8891188615235717662242.jpg">
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
